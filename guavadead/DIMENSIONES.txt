@@ -1,0 +1,7 @@
+PC:
+
+PANTALLA COMPLETA:
+width="1347" height="745"
+
+NAVEGADOR NORMAL:
+width="1347" height="620"
